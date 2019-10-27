@@ -1,0 +1,495 @@
+words1	words2	freq.w1	freq.w2	obs.w1_2.in_c	exp.w1_2.in_c	relation	delta.p.constr.to.word	delta.p.word.to.constr	coll.strength
+clear	day	73	62	48	5.01	attraction	0.6407	0.7445	47.599
+old	time	72	33	27	2.63	attraction	0.3678	0.7665	26.0253
+smooth	silk	21	15	14	0.35	attraction	0.6655	0.9255	24.1636
+easy	pie	12	15	11	0.2	attraction	0.9122	0.7322	20.6776
+american	apple pie	18	11	10	0.22	attraction	0.5544	0.9001	17.3013
+good	gold	29	16	12	0.51	attraction	0.4092	0.7309	15.8175
+cold	ice	10	12	8	0.13	attraction	0.7955	0.6644	14.686
+white	snow	11	8	7	0.1	attraction	0.6352	0.8705	13.5607
+clear	hell	73	328	1	26.49	repulsion	-0.3798	-0.122	13.3762
+old	hell	72	328	1	26.12	repulsion	-0.3791	-0.1202	13.1652
+right	rain	5	7	5	0.04	attraction	0.9978	0.7143	11.3746
+clear	mud	73	10	9	0.81	attraction	0.1221	0.8284	9.0702
+plain	day	9	62	8	0.62	attraction	0.8286	0.1278	8.5709
+mad	hell	25	328	23	9.07	attraction	0.573	0.0666	8.2202
+black	night	6	6	4	0.04	attraction	0.6644	0.6644	8.0909
+good	sex	29	5	5	0.16	attraction	0.1724	0.9733	7.6222
+thick	mince	13	4	4	0.06	attraction	0.3077	0.99	7.5873
+natural	breathing	3	5	3	0.02	attraction	0.9978	0.6	7.0889
+light	air	4	5	3	0.02	attraction	0.7478	0.5989	6.4876
+proud	punch	8	3	3	0.03	attraction	0.375	0.9945	6.3407
+sweet	sugar	9	3	3	0.03	attraction	0.3333	0.9933	6.1646
+thick	mince meat	13	3	3	0.04	attraction	0.2308	0.9889	5.6325
+vain	narcissus	2	2	2	0	attraction	1	1	5.6108
+funny	hell	23	328	19	8.35	attraction	0.4753	0.051	5.2663
+regular	clockwork	2	3	2	0.01	attraction	0.9989	0.6667	5.1337
+cute	heck	10	32	5	0.35	attraction	0.4698	0.1505	5.0465
+worthless	history	2	4	2	0.01	attraction	0.9978	0.5	4.8327
+different	night and day	4	2	2	0.01	attraction	0.5	0.9978	4.8327
+lazy	toad	4	2	2	0.01	attraction	0.5	0.9978	4.8327
+weak	piss	4	2	2	0.01	attraction	0.5	0.9978	4.8327
+ugly	sin	3	3	2	0.01	attraction	0.6656	0.6656	4.6569
+black	coal	6	2	2	0.01	attraction	0.3333	0.9956	4.4347
+clear	crystal	73	4	4	0.32	attraction	0.0548	0.9233	4.4048
+cheap	dirt	5	3	2	0.02	attraction	0.3989	0.6633	4.1347
+nervous	hell	12	328	11	4.35	attraction	0.5613	0.0318	3.9821
+clear	daylight	73	8	5	0.65	attraction	0.0649	0.5491	3.8567
+thick	stew	13	2	2	0.03	attraction	0.1538	0.9878	3.7187
+hot	hell	23	328	17	8.35	attraction	0.3861	0.0414	3.6444
+sweet	honey	9	3	2	0.03	attraction	0.2211	0.6589	3.5797
+dark	night	5	6	2	0.03	attraction	0.3956	0.33	3.4386
+american	apple	18	2	2	0.04	attraction	0.1111	0.9823	3.4261
+old	humanity itself	72	3	3	0.24	attraction	0.0417	0.9234	3.3134
+old	mankind	72	3	3	0.24	attraction	0.0417	0.9234	3.3134
+strong	steel	10	4	2	0.04	attraction	0.1978	0.4911	3.1846
+smooth	hell	21	328	1	7.62	repulsion	-0.3227	-0.0317	3.0425
+scary	hell	12	328	10	4.35	attraction	0.4768	0.027	2.9605
+absurd	astrology	1	1	1	0	attraction	1	1	2.9562
+ancient	time itself	1	1	1	0	attraction	1	1	2.9562
+blue	gas jets	1	1	1	0	attraction	1	1	2.9562
+colorless	marble	1	1	1	0	attraction	1	1	2.9562
+commonplace	ketchup	1	1	1	0	attraction	1	1	2.9562
+critical	business	1	1	1	0	attraction	1	1	2.9562
+damaging	war itself	1	1	1	0	attraction	1	1	2.9562
+dark and deep	peat	1	1	1	0	attraction	1	1	2.9562
+delicate	gossamer	1	1	1	0	attraction	1	1	2.9562
+distinct	chalk is from cheese	1	1	1	0	attraction	1	1	2.9562
+diverse	cancer	1	1	1	0	attraction	1	1	2.9562
+double	crime	1	1	1	0	attraction	1	1	2.9562
+drunk	skunks	1	1	1	0	attraction	1	1	2.9562
+dry	desert	1	1	1	0	attraction	1	1	2.9562
+dull	dishwasher in sponge-pink	1	1	1	0	attraction	1	1	2.9562
+dull and incomprehensible	cricket	1	1	1	0	attraction	1	1	2.9562
+enjoyable	sex after couples therapy	1	1	1	0	attraction	1	1	2.9562
+fair	virgin pearls	1	1	1	0	attraction	1	1	2.9562
+fickle	construction	1	1	1	0	attraction	1	1	2.9562
+flat	pancake	1	1	1	0	attraction	1	1	2.9562
+fluffy	cotton candy	1	1	1	0	attraction	1	1	2.9562
+fragile	cut glass	1	1	1	0	attraction	1	1	2.9562
+fresh	daisy	1	1	1	0	attraction	1	1	2.9562
+fundamental	trash	1	1	1	0	attraction	1	1	2.9562
+grave	war and peace	1	1	1	0	attraction	1	1	2.9562
+infectious	venom	1	1	1	0	attraction	1	1	2.9562
+luxurious	lobster	1	1	1	0	attraction	1	1	2.9562
+mild	milk	1	1	1	0	attraction	1	1	2.9562
+minnesotan	corn dogs and walleye	1	1	1	0	attraction	1	1	2.9562
+miscible	oil and water	1	1	1	0	attraction	1	1	2.9562
+monotonous	vanilla	1	1	1	0	attraction	1	1	2.9562
+mundane	banana	1	1	1	0	attraction	1	1	2.9562
+necessary	cricket in india	1	1	1	0	attraction	1	1	2.9562
+out-dated	steam	1	1	1	0	attraction	1	1	2.9562
+placid	livestock	1	1	1	0	attraction	1	1	2.9562
+pointless	ferry companies without ferries	1	1	1	0	attraction	1	1	2.9562
+prickly	that bountiful bane of every pacific northwest garden	1	1	1	0	attraction	1	1	2.9562
+pure and sparkling	mountain spring water	1	1	1	0	attraction	1	1	2.9562
+quiet	lust	1	1	1	0	attraction	1	1	2.9562
+rare	autumn	1	1	1	0	attraction	1	1	2.9562
+ropey	ship rigging	1	1	1	0	attraction	1	1	2.9562
+small	shot	1	1	1	0	attraction	1	1	2.9562
+sour	dredge	1	1	1	0	attraction	1	1	2.9562
+stark	white	1	1	1	0	attraction	1	1	2.9562
+sweet and light	cotton candy on anak ko	1	1	1	0	attraction	1	1	2.9562
+taut	razor-wire	1	1	1	0	attraction	1	1	2.9562
+top	top of the moutain	1	1	1	0	attraction	1	1	2.9562
+unfocused	compere	1	1	1	0	attraction	1	1	2.9562
+useful	tits	1	1	1	0	attraction	1	1	2.9562
+useless	police cats	1	1	1	0	attraction	1	1	2.9562
+villainous	vengeance	1	1	1	0	attraction	1	1	2.9562
+wild	mountain goats	1	1	1	0	attraction	1	1	2.9562
+good	hell	29	328	3	10.52	repulsion	-0.268	-0.036	2.8199
+solid	gold	4	16	2	0.07	attraction	0.4844	0.1227	2.7625
+stupid	fuck	2	40	2	0.09	attraction	0.9579	0.05	2.7187
+concrete	reality	1	2	1	0	attraction	0.9989	0.5	2.6551
+crisp	reality	1	2	1	0	attraction	0.9989	0.5	2.6551
+elusive	nature itself	1	2	1	0	attraction	0.9989	0.5	2.6551
+green	grass	1	2	1	0	attraction	0.9989	0.5	2.6551
+impersonal	gravity	1	2	1	0	attraction	0.9989	0.5	2.6551
+plentiful	food	1	2	1	0	attraction	0.9989	0.5	2.6551
+quick and easy	cake	1	2	1	0	attraction	0.9989	0.5	2.6551
+scarce	truth	1	2	1	0	attraction	0.9989	0.5	2.6551
+short	grass	1	2	1	0	attraction	0.9989	0.5	2.6551
+sixth	part	1	2	1	0	attraction	0.9989	0.5	2.6551
+tender	cake	1	2	1	0	attraction	0.9989	0.5	2.6551
+transparent	water	1	2	1	0	attraction	0.9989	0.5	2.6551
+ubiquitous	water	1	2	1	0	attraction	0.9989	0.5	2.6551
+unpalatable	beef	1	2	1	0	attraction	0.9989	0.5	2.6551
+addictive	potato chips	2	1	1	0	attraction	0.5	0.9989	2.6551
+certain	death and taxes	2	1	1	0	attraction	0.5	0.9989	2.6551
+clean	bed	2	1	1	0	attraction	0.5	0.9989	2.6551
+close	bark	2	1	1	0	attraction	0.5	0.9989	2.6551
+close	family	2	1	1	0	attraction	0.5	0.9989	2.6551
+dead	bacon	2	1	1	0	attraction	0.5	0.9989	2.6551
+dead	hypocrisy rules	2	1	1	0	attraction	0.5	0.9989	2.6551
+english	"cream tea	2	1	1	0	attraction	0.5	0.9989	2.6551
+essential	bread and water	2	1	1	0	attraction	0.5	0.9989	2.6551
+essential	toilet paper	2	1	1	0	attraction	0.5	0.9989	2.6551
+exciting	space travel	2	1	1	0	attraction	0.5	0.9989	2.6551
+first	festival	2	1	1	0	attraction	0.5	0.9989	2.6551
+first	pilot-in-command	2	1	1	0	attraction	0.5	0.9989	2.6551
+healthy	pita	2	1	1	0	attraction	0.5	0.9989	2.6551
+loud	plane crash	2	1	1	0	attraction	0.5	0.9989	2.6551
+pink	candyfloss	2	1	1	0	attraction	0.5	0.9989	2.6551
+pink	flesh	2	1	1	0	attraction	0.5	0.9989	2.6551
+reliable	airplane wifi	2	1	1	0	attraction	0.5	0.9989	2.6551
+reliable	sunshine	2	1	1	0	attraction	0.5	0.9989	2.6551
+skinny	hell center	2	1	1	0	attraction	0.5	0.9989	2.6551
+slippery	eel	2	1	1	0	attraction	0.5	0.9989	2.6551
+slippery	oil	2	1	1	0	attraction	0.5	0.9989	2.6551
+tenacious	honeysuckle	2	1	1	0	attraction	0.5	0.9989	2.6551
+tenacious	mountain goatsntain	2	1	1	0	attraction	0.5	0.9989	2.6551
+weird	hell	6	328	6	2.18	attraction	0.6414	0.0183	2.6545
+sure	hell	37	328	22	13.42	attraction	0.2417	0.041	2.5409
+dirty	cotton	1	3	1	0	attraction	0.9978	0.3333	2.479
+vast	humanity	1	3	1	0	attraction	0.9978	0.3333	2.479
+fine	frog	3	1	1	0	attraction	0.3333	0.9978	2.479
+inevitable	"death	3	1	1	0	attraction	0.3333	0.9978	2.479
+powerful	real-world	3	1	1	0	attraction	0.3333	0.9978	2.479
+real	day and night	3	1	1	0	attraction	0.3333	0.9978	2.479
+slow	sap dripping from a maple tapap	3	1	1	0	attraction	0.3333	0.9978	2.479
+tight	level	3	1	1	0	attraction	0.3333	0.9978	2.479
+creepy	hell	8	328	7	2.9	attraction	0.5167	0.0196	2.36
+happy	hell	8	328	7	2.9	attraction	0.5167	0.0196	2.36
+english	cucumber	2	2	1	0	attraction	0.4989	0.4989	2.3543
+healthy	beef	2	2	1	0	attraction	0.4989	0.4989	2.3543
+important	food	2	2	1	0	attraction	0.4989	0.4989	2.3543
+pure	wool	2	2	1	0	attraction	0.4989	0.4989	2.3543
+common	air and water	4	1	1	0	attraction	0.25	0.9967	2.3541
+common	hamstring stories	4	1	1	0	attraction	0.25	0.9967	2.3541
+common	muck	4	1	1	0	attraction	0.25	0.9967	2.3541
+different	chalk and cheese	4	1	1	0	attraction	0.25	0.9967	2.3541
+different	pluto and saturn	4	1	1	0	attraction	0.25	0.9967	2.3541
+sexy	gun	4	1	1	0	attraction	0.25	0.9967	2.3541
+sure	night follows day	37	3	2	0.12	attraction	0.0529	0.6278	2.3216
+bad	death	1	5	1	0.01	attraction	0.9956	0.2	2.2572
+normal	breathing	1	5	1	0.01	attraction	0.9956	0.2	2.2572
+readily	air	1	5	1	0.01	attraction	0.9956	0.2	2.2572
+vital	breathing	1	5	1	0.01	attraction	0.9956	0.2	2.2572
+dark	raven	5	1	1	0.01	attraction	0.2	0.9956	2.2572
+dark	tea	5	1	1	0.01	attraction	0.2	0.9956	2.2572
+dangerous	hell	5	328	5	1.81	attraction	0.6407	0.0152	2.21
+old	civilisation itself	72	2	2	0.16	attraction	0.0278	0.9224	2.2033
+miserable	sin	2	3	1	0.01	attraction	0.4978	0.3322	2.1785
+available	dust	3	2	1	0.01	attraction	0.3322	0.4978	2.1785
+available	part	3	2	1	0.01	attraction	0.3322	0.4978	2.1785
+complex	truth	3	2	1	0.01	attraction	0.3322	0.4978	2.1785
+inevitable	gravity	3	2	1	0.01	attraction	0.3322	0.4978	2.1785
+big	golf	6	1	1	0.01	attraction	0.1667	0.9945	2.178
+simple	clarity	6	1	1	0.01	attraction	0.1667	0.9945	2.178
+simple	copy and paste	6	1	1	0.01	attraction	0.1667	0.9945	2.178
+simple	mind over matters	6	1	1	0.01	attraction	0.1667	0.9945	2.178
+simple	word of mouth	6	1	1	0.01	attraction	0.1667	0.9945	2.178
+strong	ice	10	12	2	0.13	attraction	0.1888	0.1577	2.1638
+glorious	rain	1	7	1	0.01	attraction	0.9934	0.1429	2.1111
+sure	heck	37	32	5	1.31	attraction	0.104	0.1196	2.1066
+solid	rock	4	2	1	0.01	attraction	0.2489	0.4967	2.0538
+obvious	daylight	1	8	1	0.01	attraction	0.9922	0.125	2.0531
+happy	bit	8	1	1	0.01	attraction	0.125	0.9922	2.0531
+soft	velvet	8	1	1	0.01	attraction	0.125	0.9922	2.0531
+complex	life	3	3	1	0.01	attraction	0.3311	0.3311	2.0029
+hard	sap from a frozen maple tree	9	1	1	0.01	attraction	0.1111	0.9911	2.0019
+plain	abc	9	1	1	0.01	attraction	0.1111	0.9911	2.0019
+sweet	candy	9	1	1	0.01	attraction	0.1111	0.9911	2.0019
+sweet	cooking	9	1	1	0.01	attraction	0.1111	0.9911	2.0019
+sweet	table sugar	9	1	1	0.01	attraction	0.1111	0.9911	2.0019
+tough	"prayer-loving	9	1	1	0.01	attraction	0.1111	0.9911	2.0019
+tough	armour	9	1	1	0.01	attraction	0.1111	0.9911	2.0019
+tough	nail pilot	9	1	1	0.01	attraction	0.1111	0.9911	2.0019
+cute	pie	10	15	2	0.17	attraction	0.1855	0.1243	1.9699
+high	fuck	4	40	2	0.18	attraction	0.4578	0.0477	1.9653
+important	death	2	5	1	0.01	attraction	0.4956	0.1989	1.9571
+true	mud	1	10	1	0.01	attraction	0.99	0.1	1.9562
+cold	clay	10	1	1	0.01	attraction	0.1	0.99	1.9562
+strong	metal	10	1	1	0.01	attraction	0.1	0.99	1.9562
+strong	proof	10	1	1	0.01	attraction	0.1	0.99	1.9562
+bloody	apple pie	1	11	1	0.01	attraction	0.9889	0.0909	1.9148
+white	chalk	11	1	1	0.01	attraction	0.0909	0.9889	1.9148
+white	ivory	11	1	1	0.01	attraction	0.0909	0.9889	1.9148
+white	light	11	1	1	0.01	attraction	0.0909	0.9889	1.9148
+common	dirt	4	3	1	0.01	attraction	0.2478	0.33	1.8784
+slick	ice	1	12	1	0.01	attraction	0.9878	0.0833	1.877
+easy	refrigerator etiquette	12	1	1	0.01	attraction	0.0833	0.9878	1.877
+nervous	paper	12	1	1	0.01	attraction	0.0833	0.9878	1.877
+scary	murder	12	1	1	0.01	attraction	0.0833	0.9878	1.877
+corrupt	shit	1	13	1	0.01	attraction	0.9867	0.0769	1.8422
+sketchy	shit	1	13	1	0.01	attraction	0.9867	0.0769	1.8422
+thick	ivy	13	1	1	0.01	attraction	0.0769	0.9867	1.8422
+thick	kudzu on a pine tree	13	1	1	0.01	attraction	0.0769	0.9867	1.8422
+cool	hell	11	328	8	3.99	attraction	0.3689	0.0192	1.8233
+inevitable	death	3	5	1	0.02	attraction	0.3289	0.1978	1.782
+angry	hell	4	328	4	1.45	attraction	0.64	0.0122	1.7663
+catchy	hell	4	328	4	1.45	attraction	0.64	0.0122	1.7663
+guilty	hell	4	328	4	1.45	attraction	0.64	0.0122	1.7663
+sick	hell	4	328	4	1.45	attraction	0.64	0.0122	1.7663
+stylish	hell	4	328	4	1.45	attraction	0.64	0.0122	1.7663
+solid	steel	4	4	1	0.02	attraction	0.2467	0.2467	1.7542
+certain	daylight	2	8	1	0.02	attraction	0.4922	0.1239	1.7537
+pure	snow	2	8	1	0.02	attraction	0.4922	0.1239	1.7537
+soft	butter	8	2	1	0.02	attraction	0.1239	0.4922	1.7537
+valuable	gold	1	16	1	0.02	attraction	0.9834	0.0625	1.752
+old	humanity	72	3	2	0.24	attraction	0.0266	0.589	1.7492
+clear	glass	73	3	2	0.24	attraction	0.0262	0.5879	1.7375
+simple	cotton	6	3	1	0.02	attraction	0.1644	0.3278	1.7033
+hard	stone	9	2	1	0.02	attraction	0.11	0.4911	1.7028
+american	"apple pie	18	1	1	0.02	attraction	0.0556	0.9812	1.7009
+american	"baseball	18	1	1	0.02	attraction	0.0556	0.9812	1.7009
+american	apple cake	18	1	1	0.02	attraction	0.0556	0.9812	1.7009
+american	apple pie and baseball	18	1	1	0.02	attraction	0.0556	0.9812	1.7009
+american	bacon and eggs	18	1	1	0.02	attraction	0.0556	0.9812	1.7009
+american	school itself	18	1	1	0.02	attraction	0.0556	0.9812	1.7009
+smooth	buttah	21	1	1	0.02	attraction	0.0476	0.9779	1.6339
+smooth	jelly	21	1	1	0.02	attraction	0.0476	0.9779	1.6339
+smooth	morning mist	21	1	1	0.02	attraction	0.0476	0.9779	1.6339
+smooth	sand paper	21	1	1	0.02	attraction	0.0476	0.9779	1.6339
+cool	cucumber	11	2	1	0.02	attraction	0.0898	0.4889	1.6162
+white	wool	11	2	1	0.02	attraction	0.0898	0.4889	1.6162
+bright	day	4	62	2	0.27	attraction	0.4333	0.0299	1.5953
+funny	ritual disembowelment	23	1	1	0.03	attraction	0.0435	0.9756	1.5944
+hot	asphalt in july	23	1	1	0.03	attraction	0.0435	0.9756	1.5944
+hot	f---	23	1	1	0.03	attraction	0.0435	0.9756	1.5944
+soft	cotton	8	3	1	0.03	attraction	0.1228	0.3256	1.5793
+sloppy	shit	2	13	1	0.03	attraction	0.4867	0.0758	1.5441
+hard	life	9	3	1	0.03	attraction	0.1089	0.3245	1.5287
+good	equity	29	1	1	0.03	attraction	0.0345	0.969	1.4938
+good	factory	29	1	1	0.03	attraction	0.0345	0.969	1.4938
+good	rest	29	1	1	0.03	attraction	0.0345	0.969	1.4938
+good	satanism	29	1	1	0.03	attraction	0.0345	0.969	1.4938
+good	spring	29	1	1	0.03	attraction	0.0345	0.969	1.4938
+good	wine	29	1	1	0.03	attraction	0.0345	0.969	1.4938
+simple	air	6	5	1	0.03	attraction	0.1622	0.1944	1.4839
+nice	pie	2	15	1	0.03	attraction	0.4845	0.0655	1.4824
+old	history	72	4	2	0.32	attraction	0.0254	0.4222	1.4711
+awkward	heck	1	32	1	0.04	attraction	0.9657	0.0312	1.451
+boring	heck	1	32	1	0.04	attraction	0.9657	0.0312	1.451
+comical	heck	1	32	1	0.04	attraction	0.9657	0.0312	1.451
+friendly	heck	1	32	1	0.04	attraction	0.9657	0.0312	1.451
+gorgeous	heck	1	32	1	0.04	attraction	0.9657	0.0312	1.451
+majestic	heck	1	32	1	0.04	attraction	0.9657	0.0312	1.451
+neat	heck	1	32	1	0.04	attraction	0.9657	0.0312	1.451
+tiny	heck	1	32	1	0.04	attraction	0.9657	0.0312	1.451
+eternal	time	1	33	1	0.04	attraction	0.9646	0.0303	1.4377
+relentless	time	1	33	1	0.04	attraction	0.9646	0.0303	1.4377
+tough	steel	9	4	1	0.04	attraction	0.1078	0.2411	1.4056
+sure	day follows night	37	1	1	0.04	attraction	0.027	0.9601	1.388
+dumb	shit	3	13	1	0.04	attraction	0.32	0.0747	1.3709
+lame	shit	3	13	1	0.04	attraction	0.32	0.0747	1.3709
+real	shit	3	13	1	0.04	attraction	0.32	0.0747	1.3709
+spooky	shit	3	13	1	0.04	attraction	0.32	0.0747	1.3709
+thick	honey	13	3	1	0.04	attraction	0.0747	0.32	1.3709
+basic	fuck	1	40	1	0.04	attraction	0.9568	0.025	1.3541
+beachy	fuck	1	40	1	0.04	attraction	0.9568	0.025	1.3541
+charming	fuck	1	40	1	0.04	attraction	0.9568	0.025	1.3541
+efficient	fuck	1	40	1	0.04	attraction	0.9568	0.025	1.3541
+flexible	fuck	1	40	1	0.04	attraction	0.9568	0.025	1.3541
+giddy	fuck	1	40	1	0.04	attraction	0.9568	0.025	1.3541
+greedy	fuck	1	40	1	0.04	attraction	0.9568	0.025	1.3541
+horny	fuck	1	40	1	0.04	attraction	0.9568	0.025	1.3541
+ignorant	fuck	1	40	1	0.04	attraction	0.9568	0.025	1.3541
+liberal	fuck	1	40	1	0.04	attraction	0.9568	0.025	1.3541
+lonely	fuck	1	40	1	0.04	attraction	0.9568	0.025	1.3541
+mexican	fuck	1	40	1	0.04	attraction	0.9568	0.025	1.3541
+queer	fuck	1	40	1	0.04	attraction	0.9568	0.025	1.3541
+seductive	fuck	1	40	1	0.04	attraction	0.9568	0.025	1.3541
+square	fuck	1	40	1	0.04	attraction	0.9568	0.025	1.3541
+unwieldy	fuck	1	40	1	0.04	attraction	0.9568	0.025	1.3541
+smooth	stone	21	2	1	0.05	attraction	0.0465	0.4778	1.3378
+entertaining	hell	3	328	3	1.09	attraction	0.6393	0.0091	1.3234
+rich	hell	3	328	3	1.09	attraction	0.6393	0.0091	1.3234
+cold	death	10	5	1	0.06	attraction	0.0955	0.19	1.2659
+strong	death	10	5	1	0.06	attraction	0.0955	0.19	1.2659
+cool	heck	11	32	2	0.39	attraction	0.1482	0.0522	1.2619
+weak	shit	4	13	1	0.06	attraction	0.2367	0.0736	1.2488
+good	butter	29	2	1	0.06	attraction	0.0333	0.469	1.1995
+smooth	glass	21	3	1	0.07	attraction	0.0454	0.3111	1.1665
+alluring	day	1	62	1	0.07	attraction	0.9324	0.0161	1.1638
+strong	fuck	10	40	2	0.44	attraction	0.1575	0.0407	1.1635
+bright	gold	4	16	1	0.07	attraction	0.2333	0.0591	1.1608
+skinny	heck	2	32	1	0.07	attraction	0.4656	0.0301	1.1575
+strong	hell	10	328	1	3.63	repulsion	-0.2658	-0.0126	1.1383
+hot	fuck	23	40	3	1.02	attraction	0.0884	0.0519	1.114
+old	shit	72	13	3	1.04	attraction	0.0296	0.1533	1.1099
+old	advertising	72	1	1	0.08	attraction	0.0139	0.9214	1.0988
+old	baseball itself	72	1	1	0.08	attraction	0.0139	0.9214	1.0988
+old	celebrity	72	1	1	0.08	attraction	0.0139	0.9214	1.0988
+old	civilization	72	1	1	0.08	attraction	0.0139	0.9214	1.0988
+old	communication	72	1	1	0.08	attraction	0.0139	0.9214	1.0988
+old	government itself	72	1	1	0.08	attraction	0.0139	0.9214	1.0988
+old	humankind	72	1	1	0.08	attraction	0.0139	0.9214	1.0988
+old	humankind itself	72	1	1	0.08	attraction	0.0139	0.9214	1.0988
+old	imagination	72	1	1	0.08	attraction	0.0139	0.9214	1.0988
+old	infield dirt	72	1	1	0.08	attraction	0.0139	0.9214	1.0988
+old	intelligence operations themselves	72	1	1	0.08	attraction	0.0139	0.9214	1.0988
+old	language	72	1	1	0.08	attraction	0.0139	0.9214	1.0988
+old	man	72	1	1	0.08	attraction	0.0139	0.9214	1.0988
+old	nation	72	1	1	0.08	attraction	0.0139	0.9214	1.0988
+old	power hierarchy itself	72	1	1	0.08	attraction	0.0139	0.9214	1.0988
+old	preseason practice itself	72	1	1	0.08	attraction	0.0139	0.9214	1.0988
+old	reality tv itself	72	1	1	0.08	attraction	0.0139	0.9214	1.0988
+old	slavery	72	1	1	0.08	attraction	0.0139	0.9214	1.0988
+old	slavery ad jim crow	72	1	1	0.08	attraction	0.0139	0.9214	1.0988
+old	speculation	72	1	1	0.08	attraction	0.0139	0.9214	1.0988
+old	storytelling itself	72	1	1	0.08	attraction	0.0139	0.9214	1.0988
+old	trade itself	72	1	1	0.08	attraction	0.0139	0.9214	1.0988
+old	video itself	72	1	1	0.08	attraction	0.0139	0.9214	1.0988
+old	violence	72	1	1	0.08	attraction	0.0139	0.9214	1.0988
+clear	sun	73	1	1	0.08	attraction	0.0137	0.9203	1.0928
+clear	sunlight at high noon	73	1	1	0.08	attraction	0.0137	0.9203	1.0928
+expensive	fuck	2	40	1	0.09	attraction	0.4568	0.0238	1.0626
+fake	fuck	2	40	1	0.09	attraction	0.4568	0.0238	1.0626
+loud	fuck	2	40	1	0.09	attraction	0.4568	0.0238	1.0626
+miserable	fuck	2	40	1	0.09	attraction	0.4568	0.0238	1.0626
+sure	shit	37	13	2	0.53	attraction	0.0414	0.1146	1.0188
+creative	heck	3	32	1	0.11	attraction	0.2989	0.029	0.9889
+mean	heck	3	32	1	0.11	attraction	0.2989	0.029	0.9889
+sad	heck	3	32	1	0.11	attraction	0.2989	0.029	0.9889
+spooky	heck	3	32	1	0.11	attraction	0.2989	0.029	0.9889
+available	time	3	33	1	0.11	attraction	0.2978	0.028	0.976
+sure	clockwork	37	3	1	0.12	attraction	0.0247	0.2934	0.9283
+proud	hell	8	328	5	2.9	attraction	0.2645	0.01	0.9189
+soft	silk	8	15	1	0.13	attraction	0.1094	0.0588	0.9005
+sad	fuck	3	40	1	0.13	attraction	0.29	0.0227	0.8959
+shady	fuck	3	40	1	0.13	attraction	0.29	0.0227	0.8959
+tight	fuck	3	40	1	0.13	attraction	0.29	0.0227	0.8959
+big	hell	6	328	4	2.18	attraction	0.3059	0.0087	0.8824
+butch	hell	2	328	2	0.73	attraction	0.6386	0.0061	0.8814
+cheeky	hell	2	328	2	0.73	attraction	0.6386	0.0061	0.8814
+chic	hell	2	328	2	0.73	attraction	0.6386	0.0061	0.8814
+competitive	hell	2	328	2	0.73	attraction	0.6386	0.0061	0.8814
+confusing	hell	2	328	2	0.73	attraction	0.6386	0.0061	0.8814
+crazy	hell	2	328	2	0.73	attraction	0.6386	0.0061	0.8814
+heavy	hell	2	328	2	0.73	attraction	0.6386	0.0061	0.8814
+hungry	hell	2	328	2	0.73	attraction	0.6386	0.0061	0.8814
+lucky	hell	2	328	2	0.73	attraction	0.6386	0.0061	0.8814
+messy	hell	2	328	2	0.73	attraction	0.6386	0.0061	0.8814
+painful	hell	2	328	2	0.73	attraction	0.6386	0.0061	0.8814
+stubborn	hell	2	328	2	0.73	attraction	0.6386	0.0061	0.8814
+smart	hell	4	328	3	1.45	attraction	0.3889	0.0074	0.8584
+sweet	pie	9	15	1	0.15	attraction	0.0955	0.0577	0.8527
+old	dust	72	2	1	0.16	attraction	0.0127	0.4213	0.8152
+old	nature itself	72	2	1	0.16	attraction	0.0127	0.4213	0.8152
+old	rock	72	2	1	0.16	attraction	0.0127	0.4213	0.8152
+lazy	fuck	4	40	1	0.18	attraction	0.2067	0.0215	0.7803
+sexy	fuck	4	40	1	0.18	attraction	0.2067	0.0215	0.7803
+smart	fuck	4	40	1	0.18	attraction	0.2067	0.0215	0.7803
+tough	hell	9	328	5	3.27	attraction	0.1947	0.0083	0.7144
+funny	heck	23	32	2	0.81	attraction	0.0529	0.0384	0.7123
+big	time	6	33	1	0.22	attraction	0.131	0.0246	0.6979
+old	life	72	3	1	0.24	attraction	0.0115	0.2545	0.6563
+clear	night follows day	73	3	1	0.24	attraction	0.0113	0.2534	0.6508
+good	daylight	29	8	1	0.26	attraction	0.0265	0.0938	0.6375
+light	day	4	62	1	0.27	attraction	0.1822	0.0126	0.606
+creepy	heck	8	32	1	0.28	attraction	0.0904	0.0232	0.5997
+sure	rain	37	7	1	0.29	attraction	0.0201	0.1027	0.5945
+cheap	hell	5	328	3	1.81	attraction	0.2385	0.0057	0.5936
+old	heck	72	32	1	2.55	repulsion	-0.0234	-0.0502	0.5861
+sure	day	37	62	1	2.54	repulsion	-0.0433	-0.0266	0.5809
+hard	heck	9	32	1	0.32	attraction	0.0765	0.0221	0.5558
+creative	hell	3	328	2	1.09	attraction	0.3048	0.0044	0.524
+dumb	hell	3	328	2	1.09	attraction	0.3048	0.0044	0.524
+fine	hell	3	328	2	1.09	attraction	0.3048	0.0044	0.524
+lame	hell	3	328	2	1.09	attraction	0.3048	0.0044	0.524
+mean	hell	3	328	2	1.09	attraction	0.3048	0.0044	0.524
+powerful	hell	3	328	2	1.09	attraction	0.3048	0.0044	0.524
+shady	hell	3	328	2	1.09	attraction	0.3048	0.0044	0.524
+slow	hell	3	328	2	1.09	attraction	0.3048	0.0044	0.524
+soft	hell	8	328	4	2.9	attraction	0.1384	0.0053	0.4936
+hard	fuck	9	40	1	0.4	attraction	0.0675	0.0157	0.4739
+accurate	hell	1	328	1	0.36	attraction	0.6379	0.003	0.4403
+anxious	hell	1	328	1	0.36	attraction	0.6379	0.003	0.4403
+bleak	hell	1	328	1	0.36	attraction	0.6379	0.003	0.4403
+bogus	hell	1	328	1	0.36	attraction	0.6379	0.003	0.4403
+brutal	hell	1	328	1	0.36	attraction	0.6379	0.003	0.4403
+cheesy	hell	1	328	1	0.36	attraction	0.6379	0.003	0.4403
+chewy	hell	1	328	1	0.36	attraction	0.6379	0.003	0.4403
+classy	hell	1	328	1	0.36	attraction	0.6379	0.003	0.4403
+clever	hell	1	328	1	0.36	attraction	0.6379	0.003	0.4403
+clueless	hell	1	328	1	0.36	attraction	0.6379	0.003	0.4403
+cocky	hell	1	328	1	0.36	attraction	0.6379	0.003	0.4403
+compelling	hell	1	328	1	0.36	attraction	0.6379	0.003	0.4403
+confident	hell	1	328	1	0.36	attraction	0.6379	0.003	0.4403
+corny	hell	1	328	1	0.36	attraction	0.6379	0.003	0.4403
+cruel	hell	1	328	1	0.36	attraction	0.6379	0.003	0.4403
+difficult	hell	1	328	1	0.36	attraction	0.6379	0.003	0.4403
+dramatic	hell	1	328	1	0.36	attraction	0.6379	0.003	0.4403
+engaging	hell	1	328	1	0.36	attraction	0.6379	0.003	0.4403
+evil	hell	1	328	1	0.36	attraction	0.6379	0.003	0.4403
+excited	hell	1	328	1	0.36	attraction	0.6379	0.003	0.4403
+funky	hell	1	328	1	0.36	attraction	0.6379	0.003	0.4403
+gleeful	hell	1	328	1	0.36	attraction	0.6379	0.003	0.4403
+glowy	hell	1	328	1	0.36	attraction	0.6379	0.003	0.4403
+goofy	hell	1	328	1	0.36	attraction	0.6379	0.003	0.4403
+gory	hell	1	328	1	0.36	attraction	0.6379	0.003	0.4403
+grumpy	hell	1	328	1	0.36	attraction	0.6379	0.003	0.4403
+handy	hell	1	328	1	0.36	attraction	0.6379	0.003	0.4403
+hearty	hell	1	328	1	0.36	attraction	0.6379	0.003	0.4403
+hip	hell	1	328	1	0.36	attraction	0.6379	0.003	0.4403
+immersive	hell	1	328	1	0.36	attraction	0.6379	0.003	0.4403
+impressive	hell	1	328	1	0.36	attraction	0.6379	0.003	0.4403
+interesting	hell	1	328	1	0.36	attraction	0.6379	0.003	0.4403
+intimidating	hell	1	328	1	0.36	attraction	0.6379	0.003	0.4403
+intriguing	hell	1	328	1	0.36	attraction	0.6379	0.003	0.4403
+macabre	hell	1	328	1	0.36	attraction	0.6379	0.003	0.4403
+marketable	hell	1	328	1	0.36	attraction	0.6379	0.003	0.4403
+mediocre	hell	1	328	1	0.36	attraction	0.6379	0.003	0.4403
+nasty	hell	1	328	1	0.36	attraction	0.6379	0.003	0.4403
+noisy	hell	1	328	1	0.36	attraction	0.6379	0.003	0.4403
+oblivious	hell	1	328	1	0.36	attraction	0.6379	0.003	0.4403
+odd	hell	1	328	1	0.36	attraction	0.6379	0.003	0.4403
+passionate	hell	1	328	1	0.36	attraction	0.6379	0.003	0.4403
+pesky	hell	1	328	1	0.36	attraction	0.6379	0.003	0.4403
+petty	hell	1	328	1	0.36	attraction	0.6379	0.003	0.4403
+practical	hell	1	328	1	0.36	attraction	0.6379	0.003	0.4403
+pushy	hell	1	328	1	0.36	attraction	0.6379	0.003	0.4403
+ready	hell	1	328	1	0.36	attraction	0.6379	0.003	0.4403
+restless	hell	1	328	1	0.36	attraction	0.6379	0.003	0.4403
+rocky	hell	1	328	1	0.36	attraction	0.6379	0.003	0.4403
+rude	hell	1	328	1	0.36	attraction	0.6379	0.003	0.4403
+sassy	hell	1	328	1	0.36	attraction	0.6379	0.003	0.4403
+scary and creepy	hell	1	328	1	0.36	attraction	0.6379	0.003	0.4403
+serious	hell	1	328	1	0.36	attraction	0.6379	0.003	0.4403
+sharp	hell	1	328	1	0.36	attraction	0.6379	0.003	0.4403
+skimpy	hell	1	328	1	0.36	attraction	0.6379	0.003	0.4403
+sleepy	hell	1	328	1	0.36	attraction	0.6379	0.003	0.4403
+spiffy	hell	1	328	1	0.36	attraction	0.6379	0.003	0.4403
+stiff	hell	1	328	1	0.36	attraction	0.6379	0.003	0.4403
+tasty	hell	1	328	1	0.36	attraction	0.6379	0.003	0.4403
+touchy	hell	1	328	1	0.36	attraction	0.6379	0.003	0.4403
+toxic	hell	1	328	1	0.36	attraction	0.6379	0.003	0.4403
+transgressive	hell	1	328	1	0.36	attraction	0.6379	0.003	0.4403
+tricky	hell	1	328	1	0.36	attraction	0.6379	0.003	0.4403
+vague	hell	1	328	1	0.36	attraction	0.6379	0.003	0.4403
+witty	hell	1	328	1	0.36	attraction	0.6379	0.003	0.4403
+wonky	hell	1	328	1	0.36	attraction	0.6379	0.003	0.4403
+wrong	hell	1	328	1	0.36	attraction	0.6379	0.003	0.4403
+young	hell	1	328	1	0.36	attraction	0.6379	0.003	0.4403
+dark	hell	5	328	1	1.81	repulsion	-0.1637	-0.0039	0.3941
+scary	fuck	12	40	1	0.53	attraction	0.0396	0.0123	0.3757
+hard	hell	9	328	4	3.27	attraction	0.0824	0.0035	0.3734
+thick	fuck	13	40	1	0.58	attraction	0.0332	0.0111	0.3497
+high	hell	4	328	2	1.45	attraction	0.1378	0.0026	0.3374
+sexy	hell	4	328	2	1.45	attraction	0.1378	0.0026	0.3374
+mad	day	25	62	1	1.71	repulsion	-0.0294	-0.0124	0.3206
+cute	hell	10	328	3	3.63	repulsion	-0.0635	-0.003	0.3199
+sure	fuck	37	40	1	1.64	repulsion	-0.018	-0.0167	0.2973
+bright	hell	4	328	1	1.45	repulsion	-0.1133	-0.0022	0.2675
+lazy	hell	4	328	1	1.45	repulsion	-0.1133	-0.0022	0.2675
+weak	hell	4	328	1	1.45	repulsion	-0.1133	-0.0022	0.2675
+hot	heck	23	32	1	0.81	attraction	0.0083	0.006	0.2456
+addictive	hell	2	328	1	0.73	attraction	0.1375	0.0013	0.226
+clean	hell	2	328	1	0.73	attraction	0.1375	0.0013	0.226
+exciting	hell	2	328	1	0.73	attraction	0.1375	0.0013	0.226
+expensive	hell	2	328	1	0.73	attraction	0.1375	0.0013	0.226
+fake	hell	2	328	1	0.73	attraction	0.1375	0.0013	0.226
+nice	hell	2	328	1	0.73	attraction	0.1375	0.0013	0.226
+sloppy	hell	2	328	1	0.73	attraction	0.1375	0.0013	0.226
+mad	heck	25	32	1	0.88	attraction	0.0047	0.0037	0.2227
+sure	time	37	33	1	1.35	repulsion	-0.0099	-0.011	0.2187
+clear	ice	73	12	1	0.97	attraction	0.0005	0.0026	0.195
+complex	hell	3	328	1	1.09	repulsion	-0.0296	-0.0004	0.1544
+real	hell	3	328	1	1.09	repulsion	-0.0296	-0.0004	0.1544
+sad	hell	3	328	1	1.09	repulsion	-0.0296	-0.0004	0.1544
+spooky	hell	3	328	1	1.09	repulsion	-0.0296	-0.0004	0.1544
+tight	hell	3	328	1	1.09	repulsion	-0.0296	-0.0004	0.1544
+ugly	hell	3	328	1	1.09	repulsion	-0.0296	-0.0004	0.1544
+good	time	29	33	1	1.06	repulsion	-0.0021	-0.0018	0.1465
+funny	fuck	23	40	1	1.02	repulsion	-0.0008	-0.0005	0.1371
