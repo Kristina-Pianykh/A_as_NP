@@ -1,5 +1,9 @@
+"""
+Parse the raw Russian data into two columns WORD_SLOT1 and WORD_SLOT2
+where the former contains the adjectives and the latter - the NPs.
+"""
+
 import csv
-import re
 
 #specify your directory containing the file
 f = open("D:/Russian files/Russian_corpus_extracted_and_filtered.csv")
@@ -19,23 +23,23 @@ lower_case = [[j.lower() for j in i] for i in new_file]
 adj = []
 np = []
 for phrase in lower_case:
-    like_index = phrase.index('как')
-    if like_index == 0 and phrase[1] == 'пламя':
+    as_index = phrase.index('как')
+    if as_index == 0 and phrase[1] == 'пламя':
         adj.append(phrase[3])
         np.append(phrase[1])
-    elif like_index == 0 and phrase[1] == 'вода':
+    elif as_index == 0 and phrase[1] == 'вода':
         adj.append(phrase[2:])
         np.append(phrase[1])
-    elif like_index == 0 and phrase[1] == 'земля':
+    elif as_index == 0 and phrase[1] == 'земля':
         adj.append(phrase[3])
         np.append(phrase[1])
-    elif like_index == 0 and phrase[1] == 'голубь':
+    elif as_index == 0 and phrase[1] == 'голубь':
         adj.append(phrase[2])
         np.append(phrase[1])
     else:
-        wanted_items = phrase[:like_index]
+        wanted_items = phrase[:as_index]
         adj.append(wanted_items)
-        wanted_items1 = phrase[like_index+1:]
+        wanted_items1 = phrase[as_index+1:]
         np.append(wanted_items1)
 
 adj_concanten = []

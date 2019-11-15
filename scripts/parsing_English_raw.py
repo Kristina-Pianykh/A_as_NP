@@ -1,20 +1,13 @@
+"""
+Parse the raw English data into two columns WORD_SLOT1 and WORD_SLOT2
+where the former contains the adjectives and the latter - the NPs.
+"""
+
 import csv
-import re
 
 #specify your directory containing the file
 f = open("D:/English files/English_corpus_extracted_and_filtered.csv")
 csv_f = csv.reader(f)
-
-s = open("D:/English files/for_coll_anal.csv")
-csv_s = csv.reader(s, delimiter = '\t')
-
-adj_orig = []
-for line in csv_s:
-    adj_orig.append(line[0])
-    
-np_orig = []
-for line in csv_s:
-    np_orig.append(line[1])
 
 concatenated = []
 for line in csv_f:
@@ -30,10 +23,10 @@ lower_case = [[j.lower() for j in i] for i in new_file]
 adj = []
 np = []
 for phrase in lower_case:
-    like_index = phrase.index('as')
-    wanted_items = phrase[:like_index]
+    as_index = phrase.index('as')
+    wanted_items = phrase[:as_index]
     adj.append(wanted_items)
-    wanted_items1 = phrase[like_index+1:]
+    wanted_items1 = phrase[as_index+1:]
     np.append(wanted_items1)
 
 adj_concanten = []

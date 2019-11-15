@@ -1,5 +1,9 @@
+"""
+Compute ΔP for each type of the A as NP construction and append
+the resuls to the Russian_coll_anal.csv file as a new column.
+"""
+
 import csv
-import re
 
 #specify your directory with Russian_coll_anal.csv
 m = open("D:/Russian files/Russian_coll_anal.csv")
@@ -43,7 +47,7 @@ all_diff_lists.append(delta_pi(new_list[1:]))
 all_diff = [val for sublist in all_diff_lists for val in sublist]
 all_diff_format = []
 for item in all_diff:
-	new_format = str("{0:.5f}".format(item))
+	new_format = str("{0:.4f}".format(item))
 	all_diff_format.append(new_format)
 
 counter = 0
@@ -55,7 +59,7 @@ delta_p = ['delta_p']
 for i in new_list[1:]:
     delta_p.append(i[2])
 
-#appeding the calculated delta p results to the file origial file Russian_coll_anal.csv
+#appeding the calculated delta p results to the origial file Russian_coll_anal.csv
 new_data = []
 for i, item in enumerate(new_file):
     try:
