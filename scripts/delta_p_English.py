@@ -5,8 +5,8 @@ the resuls to the English_coll_anal.csv file as a new column.
 
 import csv
 
-#specify your directory with English_coll_anal.csv
-m = open("D:/English files/English_coll_anal.csv")
+path = "D:/English files/" #specify your directory with English_coll_anal.csv
+m = open(path + "English_coll_anal.csv")
 csv_m = csv.reader(m)
 
 new_file = []
@@ -31,38 +31,11 @@ for line in new_file[1:]:
 slot1_slot2.insert(0, 'slot1_slot2')
 slot2_slot1.insert(0, 'slot2_slot1')
 
-with open('D:/English files/intermediate_file.csv', 'w', newline='') as output:  #think how to calculate delta p without writing an extra file
-	writer = csv.writer(output, delimiter='\t')
-	writer.writerows(zip(slot2_slot1, slot1_slot2))
-	
-m.close()
+slot1_slot2 = [float(i) for i in slot1_slot2[1:]]
+slot2_slot1 = [float(i) for i in slot2_slot1[1:]]
 
-l = open("D:/English files/intermediate_file.csv")
-new_list = [line for line in csv.reader(l, delimiter='\t')]
-
-for row in new_list[1:]:
-	row[0] = float(row[0])
-	row[1] = float(row[1])
-
-def delta_pi(a):
-	return [line[0] - line[1] for line in a]
-
-all_diff_lists = []
-all_diff_lists.append(delta_pi(new_list[1:]))
-all_diff = [val for sublist in all_diff_lists for val in sublist]
-all_diff_format = []
-for item in all_diff:
-	new_format = str("{0:.4f}".format(item))
-	all_diff_format.append(new_format)
-
-counter = 0
-for row in new_list[1:]:
-	row.append(all_diff_format[counter])
-	counter += 1
-
-delta_p = ['delta_p']
-for i in new_list[1:]:
-    delta_p.append(i[2])
+delta_p = [str('{0:.4f}'.format(i)) for i in list(map(lambda x, y: x - y, slot2_slot1, slot1_slot2))]
+delta_p.insert(0, 'delta_p')
 
 #appeding the calculated delta p results to the origial file English_coll_anal.csv
 new_data = []
@@ -73,8 +46,7 @@ for i, item in enumerate(new_file):
         item.append('placeholder')
     new_data.append(item)
 
-k = open("D:/English files/English_coll_anal.csv", "w", newline='')
+k = open(path + "English_coll_anal.csv", "w", newline='')
 csv.writer(k, delimiter='\t').writerows(new_data)
 
-k.close()
-l.close()
+m.close()
