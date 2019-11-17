@@ -2,7 +2,7 @@
 This repository contains all the data, plots and codes, used in the study of the A as NP construction in Russian and English.
 
 ## Data Structure
-* The raw data, retrieved from the [Timestamped JSI web corpus 2019-08 English](https://www.sketchengine.eu/timestamped-english-corpus/) and the [Timestamped JSI web corpus 2014-2016 Russian] (https://www.sketchengine.eu/timestamped-russian-corpus/), can be found in **raw/** folder.
+* The raw data, retrieved from the [Timestamped JSI web corpus 2019-08 English](https://www.sketchengine.eu/timestamped-english-corpus/) and the [Timestamped JSI web corpus 2014-2016 Russian](https://www.sketchengine.eu/timestamped-russian-corpus/), can be found in **raw/** folder.
 
 * **scripts/** folder contains the py files, used to parse the raw data and extract the *A_as_NP* constructs into separate files for Russian and English. They are stored in **parsed/** folder. The R files contain the code, used for the following:
 1. co-varying collexeme analysis;
