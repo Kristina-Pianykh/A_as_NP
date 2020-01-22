@@ -1,10 +1,60 @@
-#co-varying collostructional analysis, attested observations only, Fisher exact test (run twice for the Russian and English data)
+"""""
+co-varying collostructional analysis, attested observations only,
+Fisher exact test (run twice for the Russian and English data)
+"""""
+
 source("http://www.linguistics.ucsb.edu/faculty/stgries/teaching/groningen/coll.analysis.r")
 coll.analysis()
 
-""""""""""""""""""""""""""""""""""""""""""""""""""
-#modelling GVC for the Russian data
-""""""""""""""""""""""""""""""""""""""""""""""""""
+
+"""""
+Compute ??P for each type of the A as NP construction and append
+the resuls to the English_coll_anal.csv file as a new column.
+"""""
+
+if (!("data.table" %in% installed.packages())) {
+  install.packages("data.table")
+}
+if (!("tidyverse" %in% installed.packages())) {
+  install.packages("tidyverse")
+}
+
+library(data.table)
+library(tidyverse)
+
+#indicate your local path to English_coll_anal.csv    
+fobjEng <- fread("") %>%
+  as_tibble()
+
+#a function to compute ??P
+deltapi <- function(i, sum = 904) {
+  a <- i[5]
+  b <- i[3] - i[5]
+  c <- i[4] - i[5]
+  d <- sum - (i[3] + i[4])
+  deltaNP.A <- (a / (a + b)) - (c / (c + d)) 
+  deltaA.NP <- (a / (a + c)) - (b / (b + d))
+  delta.pi <- deltaNP.A - deltaA.NP %>%
+    as_tibble()
+  i %>%
+    mutate(delta_diff = as.numeric(unlist(delta.pi)))
+}
+
+fobjEng <- deltapi(fobjEng)
+write_csv(fobjEng, "") #write to the source file; same file path as was used in the function fread() on line
+rm(fobjEng)
+
+#indicate your local path to Russian_coll_anal.csv   
+fobjRus <- fread("") %>%
+  as_tibble()
+fobjRus <- deltapi(fobjRus, sum=2586)
+write_csv(fobjRus, "") # write to the source file; same file path as was used in the function fread() on line 
+
+
+"""""
+Model GVC for the Russian data
+"""""
+
 #constructing iterpolated and extrapolated GVC (potential productivity)
 install.packages("languageR"); library(languageR)
 install.packages("zipfR"); library(zipfR)
@@ -114,9 +164,10 @@ my_df.ext.fzm.a$V1[29] #V1 measure of the adj slot in the last chunk of the 3x s
 my_df.ext.fzm.np #extrapolated values of the NP slot
 
 
-""""""""""""""""""""""""""""""""""""""""""""""""""
-#modelling GVC for the English data
-""""""""""""""""""""""""""""""""""""""""""""""""""
+"""""
+Model GVC for the English data
+"""""
+
 #constructing iterpolated and extrapolated GVC (potential productivity)
 install.packages("languageR"); library(languageR)
 install.packages("zipfR"); library(zipfR)
