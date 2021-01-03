@@ -1,5 +1,6 @@
 # A_as_NP
-This repository contains all the data, plots and codes, used in the study of the A as NP construction in Russian and English: Pianykh, K. (2019). Productivity of the A as NP construction in Russian and English: clear as mud or clear as day? Unpublished term paper.
+This repository contains all the data, plots and codes, used in the following study:
+Pianykh, K. (2019). Productivity of the A as NP construction in Russian and English: clear as mud or clear as day? Unpublished term paper.
 
 ## Data Structure
 * The raw data, retrieved from the [Timestamped JSI web corpus 2019-08 English](https://www.sketchengine.eu/timestamped-english-corpus/) and the [Timestamped JSI web corpus 2014-2016 Russian](https://www.sketchengine.eu/timestamped-russian-corpus/), can be found in **raw/** folder.
